@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ouster
 - 👀 I’m interested in technical leadership, learning new things, coding for a living
-- 🌱 I’m currently not learning Rust maybe something GO or Ruby now, and ever evolving frontend
-- 💞️ I’m looking to collaborate on soft robotics, anything technical
+- 🌱 I’m currently still not learning Rust, into Java, Kotlin, TS, C/C++ 
 - 📫 How to reach me cnevin@gmail.com
 
 <!---
